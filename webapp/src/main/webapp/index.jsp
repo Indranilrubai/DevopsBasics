@@ -1,3 +1,9 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<title>Indranil</title>
+<h1> Awkwardgen.com</h1>
+<h2> Hello there, how are you</h2>
+<h2> wait a minute, who are you?</h2>
+<body>
+<footer>
+	<p>Created by Indranil Mukherjee</p>
+</footer>
+</body>
