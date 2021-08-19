@@ -4,6 +4,6 @@
 <h2> wait a minute, who are you?</h2>
 <body>
 <footer>
-	<p>Created by Indranil Mukherjee</p>
+	<p>Created by Indranil Mukherje</p>
 </footer>
 </body>
